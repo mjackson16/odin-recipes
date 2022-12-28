@@ -1,4 +1,4 @@
-# Odin-Recipes
+# Recipes
 
 Basic HTML page containing a list of recipes
 
@@ -6,3 +6,7 @@ Basic HTML page containing a list of recipes
 
 HTML  
 Git
+
+## Link
+
+[Recipes](https://mjackson16.github.io/odin-recipes/)
